@@ -8,3 +8,6 @@ This is my attempt on learning Rust, by creating a simple windowcd for Hyprland 
 ## Dependencies
 - Hyprland
 - Wofi
+
+## Demo
+<video src="doc/assets/recording.mp4" width="300" />
