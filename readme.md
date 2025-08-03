@@ -3,7 +3,7 @@ Hyprland-wofi-windowcd
 
 ## Description
 
-This is my attempt on learning Rust, by creating a simple windowcd for Hyprland using wofi.
+This is my attempt on learning Rust, by creating a simple windowcd for [Hyprland](https://hypr.land/) using [wofi](https://github.com/SimplyCEO/wofi).
 
 ## Dependencies
 - Hyprland
